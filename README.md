@@ -15,3 +15,14 @@ this repository contains ports of packages of the virbos32 repository
 - vscodium32 - very old + slow
 - vscodium - no longer supported on i686
 - librewolf - build issues and firefox is there
+
+# adding this repo:
+
+you can add this repository on any arch32 install as long as it has sse2
+
+add this to `/etc/pacman.conf`
+```note
+[virbos32]
+SigLevel = Never TrustAll
+Server = https://virbos32.github.io/repo-v32/$arch
+```
