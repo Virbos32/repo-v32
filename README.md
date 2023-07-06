@@ -13,7 +13,7 @@ this repository contains ports of packages of the virbos32 repository
 
 # packages(removed):
 - vscodium32 - very old + slow
-- vscodium - no longer supported on i686
+- vscodium - no longer supported on i686(if someone ever insists i might build a vscodium 1.6x) using skills
 - librewolf - build issues and firefox is there
 
 # adding this repo:
