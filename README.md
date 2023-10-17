@@ -11,10 +11,16 @@ this repository contains ports of packages of the virbos32 repository
 - virbos-utils
 - yay
 
+#### coming:
+- [ ] ktechlab - builds fine but untested
+- [ ] lite-xl - built on real hardware but not tested elsewhere
+- [ ] callisto - untested
+
 # packages(removed):
 - vscodium32 - very old + slow
 - vscodium - no longer supported on i686(if someone ever insists i might build a vscodium 1.6x) using skills
 - librewolf - build issues and firefox is there
+- wezterm - upsteam planning to drop wezterm or wezterm-virbos32 as replacement
 
 # adding this repo:
 
