@@ -12,7 +12,7 @@ this repository contains ports of packages of the virbos32 repository
 - yay
 
 #### coming:
-- [ ] ktechlab - builds fine but untested
+- [ ] ktechlab -[tested] but a gpg key rebuild needed
 - [ ] lite-xl - built on real hardware but not tested elsewhere
 - [ ] callisto - untested
 
